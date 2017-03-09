@@ -32,5 +32,6 @@
   },
   "eslintConfig": {
     "extends": "./node_modules/react-scripts/.eslintrc"
-  }
+  },
+  "homepage": "https://narrowdesign.github.io/new"
 }
